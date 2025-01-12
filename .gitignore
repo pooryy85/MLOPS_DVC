@@ -1,3 +1,4 @@
 # Ignore the data directory and diabetes.csv
 data/
 diabetes.csv
+/data
