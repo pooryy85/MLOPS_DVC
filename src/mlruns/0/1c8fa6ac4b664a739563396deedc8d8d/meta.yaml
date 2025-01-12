@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/1c8fa6ac4b664a739563396deedc8d8d/artifacts
+end_time: 1736692955584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c8fa6ac4b664a739563396deedc8d8d
+run_name: unruly-fox-28
+run_uuid: 1c8fa6ac4b664a739563396deedc8d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736692955474
+status: 4
+tags: []
+user_id: Admin

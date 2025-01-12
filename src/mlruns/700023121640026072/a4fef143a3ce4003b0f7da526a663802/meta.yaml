@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/700023121640026072/a4fef143a3ce4003b0f7da526a663802/artifacts
+end_time: 1736696866872
+entry_point_name: ''
+experiment_id: '700023121640026072'
+lifecycle_stage: active
+run_id: a4fef143a3ce4003b0f7da526a663802
+run_name: gaudy-swan-916
+run_uuid: a4fef143a3ce4003b0f7da526a663802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736696855942
+status: 3
+tags: []
+user_id: Admin

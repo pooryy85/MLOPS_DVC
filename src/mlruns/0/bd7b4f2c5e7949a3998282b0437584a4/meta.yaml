@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/bd7b4f2c5e7949a3998282b0437584a4/artifacts
+end_time: 1736693100971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd7b4f2c5e7949a3998282b0437584a4
+run_name: intrigued-donkey-846
+run_uuid: bd7b4f2c5e7949a3998282b0437584a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736693100908
+status: 4
+tags: []
+user_id: Admin

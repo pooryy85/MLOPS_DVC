@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/f0bdee9719d243f3a8e1ffb8dc10c7b2/artifacts
+end_time: 1736693458662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0bdee9719d243f3a8e1ffb8dc10c7b2
+run_name: debonair-wasp-102
+run_uuid: f0bdee9719d243f3a8e1ffb8dc10c7b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736693458583
+status: 4
+tags: []
+user_id: Admin

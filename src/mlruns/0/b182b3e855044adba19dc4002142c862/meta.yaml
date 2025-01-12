@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/b182b3e855044adba19dc4002142c862/artifacts
+end_time: 1736693537451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b182b3e855044adba19dc4002142c862
+run_name: thoughtful-robin-127
+run_uuid: b182b3e855044adba19dc4002142c862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736693525804
+status: 3
+tags: []
+user_id: Admin

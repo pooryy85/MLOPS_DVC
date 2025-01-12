@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/700023121640026072/7409b532987042b4b8b58fd8efd22fe0/artifacts
+end_time: 1736697236247
+entry_point_name: ''
+experiment_id: '700023121640026072'
+lifecycle_stage: active
+run_id: 7409b532987042b4b8b58fd8efd22fe0
+run_name: legendary-stoat-560
+run_uuid: 7409b532987042b4b8b58fd8efd22fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736697225518
+status: 3
+tags: []
+user_id: Admin

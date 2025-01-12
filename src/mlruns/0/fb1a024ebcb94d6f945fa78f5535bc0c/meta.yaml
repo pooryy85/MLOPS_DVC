@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/fb1a024ebcb94d6f945fa78f5535bc0c/artifacts
+end_time: 1736692807706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb1a024ebcb94d6f945fa78f5535bc0c
+run_name: whimsical-kit-607
+run_uuid: fb1a024ebcb94d6f945fa78f5535bc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736692807539
+status: 4
+tags: []
+user_id: Admin

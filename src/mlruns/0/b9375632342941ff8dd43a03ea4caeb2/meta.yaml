@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Poornima/BITS/Semester3/MLOPS/Assignment/MLOPS_DVC/src/mlruns/0/b9375632342941ff8dd43a03ea4caeb2/artifacts
+end_time: 1736692750764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9375632342941ff8dd43a03ea4caeb2
+run_name: capricious-crab-794
+run_uuid: b9375632342941ff8dd43a03ea4caeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736692750664
+status: 4
+tags: []
+user_id: Admin
